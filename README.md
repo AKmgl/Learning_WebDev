@@ -1,1 +1,1 @@
-# Learning_WebDev
+# Small Projects while learning webdev
